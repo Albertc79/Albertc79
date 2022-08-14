@@ -1,0 +1,2 @@
+Hi, I'm Albert. I like doing sim racing cluster, now the current project is the 2007 Ford Mondeo Mk4 cluster which will be relalsed soon.
+So, how i started with clusters? First i watched a tutorial on yt with an E36 cluster, was cool, then i joined on a discord server, didn't even know what was CAN and then i got my first cluster, BMW E46. I haven't done everything at it. Yannik and RBMK told me about wiring, sketches and told me what is can
